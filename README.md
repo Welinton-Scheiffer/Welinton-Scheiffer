@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mim
 - 🎓 Aluno do 2° ano de **Desenvolvimento de Sistemas** no **CEEP PG**.
-- 🚀 Atualmente focado em aprimorar minhas habilidades em lógica de programação e desenvolvimento web.
+- 🚀 Atualmente focado em aprimorar minhas habilidades em programação e desenvolvimento web.
 - 🌱 No momento, estou estudando profundamente Java e JavaScript para criar aplicações mais robustas.
 
 ---
